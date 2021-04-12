@@ -1,4 +1,4 @@
-# struct 结构体
+## struct 结构体
 
 struct 结构体是各个字段类型的集合
 ``` go
